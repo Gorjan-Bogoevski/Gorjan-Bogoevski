@@ -12,11 +12,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Gorjan-Bogoevski&theme=tokyonight)
-
----
 
 ## 🧠 Skills
 
