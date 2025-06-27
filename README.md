@@ -3,10 +3,10 @@
 ## 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorjan-Bogoevski&layout=compact&theme=dark)
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gorjan-Bogoevski&show_icons=true&theme=dark)
-![Streak Stats](https://streak-stats.demolab.com?user=Gorjan-Bogoevski&theme=dark)
+> 💻 Active GitHub contributor focused on full-stack projects and DevOps automation.
 
+## 🔥 Streak Stats
+![Streak Stats](https://streak-stats.demolab.com?user=Gorjan-Bogoevski&theme=tokyonight)
 ## 🧠 Skills
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
