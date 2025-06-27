@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Gorjan
 
 🔧 Passionate about building full-stack applications, exploring DevOps tools, and automating software delivery pipelines.  
+🤖 Also experienced in applying **machine learning models** with a focus on **prediction accuracy and performance metrics**.  
 🎯 Always learning — currently diving deeper into **Kubernetes**, **CI/CD**, and cloud-native development.
 
 ---
@@ -13,7 +14,7 @@
 
 ## 🔥 Streak Stats
 
-![Streak Stats](https://streak-stats.demolab.com?user=Gorjan-Bogoevski&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Gorjan-Bogoevski&theme=tokyonight)
 
 ---
 
@@ -44,4 +45,13 @@
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML Models-007ACC?style=for-the-badge"/>
 </p>
