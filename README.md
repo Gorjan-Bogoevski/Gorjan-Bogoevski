@@ -7,7 +7,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gorjan-bogoevski-8a689427b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gorjan200302@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -63,7 +62,7 @@ I'm a final-year Software Engineering & Information Systems student passionate a
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gorjan-Bogoevski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorjan-Bogoevski&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -75,8 +74,5 @@ I'm a final-year Software Engineering & Information Systems student passionate a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gorjan-Bogoevski&theme=tokyo-night&hide_border=true" />
 </p>
 
----
 
-<p align="center">
-  <i>"Building intelligent systems and automating the boring stuff."</i>
-</p>
+
