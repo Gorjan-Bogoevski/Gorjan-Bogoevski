@@ -68,6 +68,3 @@ I'm a final-year Software Engineering & Information Systems student passionate a
 
 ---
 
-<p align="center">
-  <i>"Building intelligent systems and automating the boring stuff."</i>
-</p>
