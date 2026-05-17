@@ -59,10 +59,15 @@ I'm a final-year Software Engineering & Information Systems student passionate a
 
 ---
 
-###Most Used Languages
+
+### Most Used Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorjan-Bogoevski&layout=pie&theme=tokyonight&hide_border=true" height="300" />
 </p>
 
+---
 
-
+<p align="center">
+  <i>"Building intelligent systems and automating the boring stuff."</i>
+</p>
