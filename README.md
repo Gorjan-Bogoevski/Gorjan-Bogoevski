@@ -63,8 +63,6 @@ I'm a final-year Software Engineering & Information Systems student passionate a
 ### Most Used Languages
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gorjan-Bogoevski&layout=compact&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorjan-Bogoevski&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
