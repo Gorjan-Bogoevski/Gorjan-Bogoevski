@@ -59,19 +59,9 @@ I'm a final-year Software Engineering & Information Systems student passionate a
 
 ---
 
-### GitHub Stats
-
+###Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gorjan-Bogoevski&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorjan-Bogoevski&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gorjan-Bogoevski&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gorjan-Bogoevski&layout=pie&theme=tokyonight&hide_border=true" height="300" />
 </p>
 
 
